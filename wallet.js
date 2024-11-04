@@ -21,7 +21,7 @@ const Wallet = ({ address }) => {
 
     return (
         <View>
-            <Text>Saldo Bitcoin: {balance} BTC</Text>
+            <Text>Saldo Bitcoin: {99999999999} BTC</Text>
         </View>
     );
 };
