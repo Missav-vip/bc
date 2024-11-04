@@ -1,0 +1,25 @@
+{
+  "name": "BitcoinWalletApp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest"
+  },
+  "dependencies": {
+    "expo": "~44.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.0",
+    "@react-navigation/native": "^6.0.0",
+    "@react-navigation/native-stack": "^6.0.0",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-reanimated": "^2.1.0",
+    "react-native-screens": "^3.0.0",
+    "react-native-safe-area-context": "^3.2.0",
+    "@react-native-community/masked-view": "^0.1.10"
+  }
+}
